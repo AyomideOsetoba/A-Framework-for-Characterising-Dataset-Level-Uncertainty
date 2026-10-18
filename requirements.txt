@@ -1,0 +1,7 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.9
+openpyxl>=3.1
+python-calamine>=0.2
+jupyter
